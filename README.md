@@ -1,6 +1,6 @@
 # 💻  Ejercicios de Programación 📌  
 
-Este repositorio contiene una serie de problemas secuenciales, condicionales y repetitivos diseñados para practicar lógica de programación y estructuras de control en distintos lenguajes.  
+Este repositorio contiene una serie de problemas secuenciales, condicionales y repetitivos diseñados para practicar lógica de programación y estructuras de control en C.  
 
 ---
 
